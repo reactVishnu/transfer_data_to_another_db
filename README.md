@@ -50,13 +50,9 @@ Your data.json is of UTF-16LE and you need to convert it into UTF-8 and than loa
 ### Step 4: All data is succesfully transferred to new DB
  This process is useful for creating backups, migrating data between databases, or sharing sample data with others working on the project. Keep in mind that the `**dumpdata**` and `**loaddata**` commands are part of Django's serialization framework, and they work with various serialization formats, not just JSON.
 
-![image.png](/.eraser/unlCADwgHzuK1NUv2vDg___PyIGY6S3LKYuPtLSivFCFleXZbx2___gJ9YIH6us0DifwnKzi1PZ.png "image.png")
+![image.png](/.eraser/unlCADwgHzuK1NUv2vDg___PyIGY6S3LKYuPtLSivFCFleXZbx2___Mp33VpW-BnfkKLFdVx1jt.png "image.png")
 
-## Contributing
-If you would like to contribute to this project, please follow the guidelines in [CONTRIBUTING.md].
 
-## License
-This project is licensed under the 2023 Copyright - see the LICENSE.md file for details. 
 
 
 <!--- Eraser file: https://app.eraser.io/workspace/unlCADwgHzuK1NUv2vDg --->
