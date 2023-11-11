@@ -18,8 +18,12 @@ This command dumps the contents of your database in JSON format and saves it to 
 ```
 ![image.png](/.eraser/unlCADwgHzuK1NUv2vDg___PyIGY6S3LKYuPtLSivFCFleXZbx2___-a8V7M-YVGnagJXMS8Y-M.png "image.png")
 
+For excluding any models use "--exclude"
 
-
+```
+python manage.py dumpdata --exclude auth.permission --exclude contenttypes > data.json
+```
+### Step 2: 
 
 
 
