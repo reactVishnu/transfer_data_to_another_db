@@ -11,10 +11,10 @@ Helps In Switch to another Deploying Env. without Losing Data
 ![image.png](/.eraser/unlCADwgHzuK1NUv2vDg___PyIGY6S3LKYuPtLSivFCFleXZbx2___csKiAD4H34q7g_rJKdhIq.png "image.png")
 
 ### Step 1: Generating a JSON file which includes your db content 
-This command dumps the contents of your database in JSON format and saves it to a file named `**data.json**` 
+This command dumps the contents of your database in JSON format and saves it to a file named "**data.json**"
 
 ```
-**python manage.py dumpdata > file**
+python manage.py dumpdata > file
 ```
 ![image.png](/.eraser/unlCADwgHzuK1NUv2vDg___PyIGY6S3LKYuPtLSivFCFleXZbx2___-a8V7M-YVGnagJXMS8Y-M.png "image.png")
 
