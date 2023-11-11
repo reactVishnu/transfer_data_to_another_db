@@ -8,10 +8,12 @@ Switch to another Deploying Env. without Losing Data .For e.g., switching from S
 ## Transferring Data to another Db in a Django Application
 Helps In Switch to another Deploying Env. without Losing Data
 
-[﻿How to transfer data to another Database Anytime: Figure 1, Figure 4 and more](https://app.eraser.io/workspace/unlCADwgHzuK1NUv2vDg?elements=hAlZMYOnoqfdG-vcxxucgw) 
+[﻿View on canvas](https://app.eraser.io/workspace/unlCADwgHzuK1NUv2vDg?elements=ybFBwtEiyUNU_OpnB9AELw) 
 
 ### Step 1: Generating a JSON file which includes your db content 
 This command dumps the contents of your database in JSON format and saves it to a file named `**data.json**` 
+
+
 
 
 
